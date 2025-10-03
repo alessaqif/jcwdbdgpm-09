@@ -7,3 +7,5 @@
 
 1. git init : mengubah folder biasa menjadi git repository
 2. git status : mengecheck status repository git
+3. git commit -m : git repository
+4. git log : history
