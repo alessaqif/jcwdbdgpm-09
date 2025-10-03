@@ -9,3 +9,7 @@
 2. git status : mengecheck status repository git
 3. git commit -m : git repository
 4. git log : history
+
+# memasukkan  git repository lokal ke git repository remote (github)
+
+1. Buat folder/repository di Github
